@@ -4,7 +4,7 @@
 
 ```bash
 
-git clone https://github.com/shiziao1996/install-wordpress.git && sh ./install-wordpress/install.sh
+git clone https://github.com/shizihao765/install-wordpress.git && sh ./install-wordpress/install.sh
 
 ```
 
