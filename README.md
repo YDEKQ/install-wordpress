@@ -1,2 +1,5 @@
-# shizihaos-qq.com
-CentOS7 一键搭建WordPress脚本
+# CentOS7 一键搭建WordPress脚本
+
+## 使用方法
+
+
