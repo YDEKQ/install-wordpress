@@ -2,4 +2,9 @@
 
 ## 使用方法
 
+```bash
+
+git clone https://github.com/shiziao1996/install-wordpress.git && sh ./install-wordpress/install.sh
+
+```
 
